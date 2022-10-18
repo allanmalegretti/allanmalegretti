@@ -1,4 +1,4 @@
-## Olá eu sou o Allan Maroder Alegretti, <br> Engenheiro de Controle e Automação e estudante Front-end e Back-end
+## Olá eu sou o Allan Maroder Alegretti, <br> Engenheiro de Controle e Automação e Fullstack dev Jr
 
  <div align="center">
   <a href="https://github.com/allanmalegretti">
